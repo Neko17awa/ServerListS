@@ -1,0 +1,18 @@
+[
+    {
+        "name": "社区服务器测试服",
+        "serverAddress": "http://sc.soka.fun:62143",
+        "newPort": "62144"
+    },
+    {
+        "name": "本地测试服",
+        "serverAddress": "http://127.0.0.1:6969",
+        "newPort": "6970"
+    },
+    {
+        "name": "社区服务器Fika测试服",
+        "serverAddress": "http://172.30.104.62:6969",
+        "newPort": "6970"
+    }
+    // 添加其他服务器的配置
+]
